@@ -1,6 +1,6 @@
 
 # Customer segmentation : RFM Analysis
-		by Muentawan Dabpimsri 1.	RFM Customer Segmentation
+		by Muentawan Dabpimsri \n 1.RFM Customer Segmentation
  Segmentation : เพื่อพิจารณาว่าแต่ละกลุ่ม ลูกค้ามีพฤติกรรมการซื้อเป็นอย่าไร เพื่อให้ธุรกิจวางแผนเข้าไปทำการกระตุ้นการขายหรือทำการตลาด ให้เกิดยอดขายสูงสุด 
 RFM Analysis อาจเหมาะสมกับสินค้าที่มีการซื้อซ้ำ ซื้อบ่อย เช่น อาหาร เครื่องสำอาง เสื้อผ้า 
 โดยมีตัวแปรสำคัญที่ใช้ในการวิเคราะห์ 3 ตัว คือ 
